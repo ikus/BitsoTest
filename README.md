@@ -60,3 +60,10 @@ Sample Input: 			Sample Output:
 1 0
 0 1
 -1 0
+
+
+
+File: test_case.txt
+Correct result of
+archipelagos found for this
+test case should be 94.
